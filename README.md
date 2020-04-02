@@ -1,3 +1,3 @@
-Search to filename from Virtual disk
-# DISKER Project
+# DISKER
 
+Search to filename from Virtual disk.
